@@ -4,17 +4,10 @@
 }
 
 body {
-     background-image: url('https://images.unsplash.com/photo-1604697983059-e7050c399f99?auto=format&fit=crop&w=1280&q=80');
+    background-image: url('https://i.imgur.com/1bhpWW3.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  min-height: 100vh;
-  padding: 40px;
-  margin: 0;
-  font-family: Arial, sans-serif;
 }
   
 
@@ -66,5 +59,6 @@ form button {
 form button:hover {
   background-color: #00b398bb;
 }
+
 
 
